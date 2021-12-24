@@ -1,9 +1,9 @@
-key='e36bb985-e2f1-43fd-b85e-e4569be5d05b'
-app_name="accgen123"
+key='84672867-233e-4f9c-8249-8da3faa382f3'
+app_name="accgen125"
 deviceid="17A7F633BD2668F5C58AC8FF2E0DDB52FE738274220CF20A44FBD5C421B24F47D483B642ED67AE381E"
-emaill="e8bf0gjt9@xojxe.com"
-passwordd="tempmail"
+emaill="pcfotl5p@1secmail.com"
+passwordd="symeon1910"
 custompwd="fakeaccpwd"
-url="https://ElatedSlipperyArchive.crimsondead.repl.co"
-chatlink="http://aminoapps.com/p/x8nptuj"
-nickname="itsme"
+private="f8300f79-bf7d-41b2-9c73-c8bd732d4bdb"
+chatlink="http://aminoapps.com/p/c9xmj7"
+nickname="Itok"
